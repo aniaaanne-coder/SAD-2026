@@ -4,3 +4,5 @@
 #to jest nasza pierwsza lekcja
 #Robimy commit and push
 #Update project
+
+elo 320
